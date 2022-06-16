@@ -1,0 +1,78 @@
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Самоучитель\Самоучитель\bin\Debug\Самоучитель.exe.config
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Самоучитель\Самоучитель\bin\Debug\Самоучитель.exe
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Самоучитель\Самоучитель\bin\Debug\Самоучитель.pdb
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Самоучитель\Самоучитель\obj\Debug\Самоучитель.csproj.AssemblyReference.cache
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Самоучитель\Самоучитель\obj\Debug\Самоучитель.MenuSamouchitel.resources
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Самоучитель\Самоучитель\obj\Debug\Самоучитель.Properties.Resources.resources
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Самоучитель\Самоучитель\obj\Debug\Самоучитель.csproj.GenerateResource.cache
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Самоучитель\Самоучитель\obj\Debug\Самоучитель.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Самоучитель\Самоучитель\obj\Debug\Самоучитель.exe
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Самоучитель\Самоучитель\obj\Debug\Самоучитель.pdb
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Самоучитель\Самоучитель\obj\Debug\Самоучитель.SlovarForm.resources
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Самоучитель\Самоучитель\obj\Debug\Самоучитель.TestForm.resources
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Самоучитель\Самоучитель\obj\Debug\Самоучитель.UchitelForm.resources
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Итог работа\Самоучитель\Самоучитель\bin\Debug\Самоучитель.exe.config
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Итог работа\Самоучитель\Самоучитель\bin\Debug\Самоучитель.exe
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Итог работа\Самоучитель\Самоучитель\bin\Debug\Самоучитель.pdb
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Итог работа\Самоучитель\Самоучитель\obj\Debug\Самоучитель.csproj.AssemblyReference.cache
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Итог работа\Самоучитель\Самоучитель\obj\Debug\Самоучитель.MenuSamouchitel.resources
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Итог работа\Самоучитель\Самоучитель\obj\Debug\Самоучитель.SlovarForm.resources
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Итог работа\Самоучитель\Самоучитель\obj\Debug\Самоучитель.TestForm.resources
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Итог работа\Самоучитель\Самоучитель\obj\Debug\Самоучитель.UchitelForm.resources
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Итог работа\Самоучитель\Самоучитель\obj\Debug\Самоучитель.Properties.Resources.resources
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Итог работа\Самоучитель\Самоучитель\obj\Debug\Самоучитель.csproj.GenerateResource.cache
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Итог работа\Самоучитель\Самоучитель\obj\Debug\Самоучитель.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Итог работа\Самоучитель\Самоучитель\obj\Debug\Самоучитель.exe
+C:\Users\student\Documents\ИСиП-20-201\Кочкин М\Итог работа\Самоучитель\Самоучитель\obj\Debug\Самоучитель.pdb
+C:\Users\Пользователь\Desktop\КУПК\Самоучитель\Самоучитель\bin\Debug\Самоучитель.exe.config
+C:\Users\Пользователь\Desktop\КУПК\Самоучитель\Самоучитель\bin\Debug\Самоучитель.exe
+C:\Users\Пользователь\Desktop\КУПК\Самоучитель\Самоучитель\bin\Debug\Самоучитель.pdb
+C:\Users\Пользователь\Desktop\КУПК\Самоучитель\Самоучитель\obj\Debug\Самоучитель.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\КУПК\Самоучитель\Самоучитель\obj\Debug\Самоучитель.MenuSamouchitel.resources
+C:\Users\Пользователь\Desktop\КУПК\Самоучитель\Самоучитель\obj\Debug\Самоучитель.SlovarForm.resources
+C:\Users\Пользователь\Desktop\КУПК\Самоучитель\Самоучитель\obj\Debug\Самоучитель.TestForm.resources
+C:\Users\Пользователь\Desktop\КУПК\Самоучитель\Самоучитель\obj\Debug\Самоучитель.UchitelForm.resources
+C:\Users\Пользователь\Desktop\КУПК\Самоучитель\Самоучитель\obj\Debug\Самоучитель.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\КУПК\Самоучитель\Самоучитель\obj\Debug\Самоучитель.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\КУПК\Самоучитель\Самоучитель\obj\Debug\Самоучитель.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\КУПК\Самоучитель\Самоучитель\obj\Debug\Самоучитель.exe
+C:\Users\Пользователь\Desktop\КУПК\Самоучитель\Самоучитель\obj\Debug\Самоучитель.pdb
+C:\Users\Пользователь\Desktop\Итоговый проект\Самоучитель\Самоучитель\bin\Debug\Самоучитель.exe.config
+C:\Users\Пользователь\Desktop\Итоговый проект\Самоучитель\Самоучитель\bin\Debug\Самоучитель.exe
+C:\Users\Пользователь\Desktop\Итоговый проект\Самоучитель\Самоучитель\bin\Debug\Самоучитель.pdb
+C:\Users\Пользователь\Desktop\Итоговый проект\Самоучитель\Самоучитель\obj\Debug\Самоучитель.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Итоговый проект\Самоучитель\Самоучитель\obj\Debug\Самоучитель.MenuSamouchitel.resources
+C:\Users\Пользователь\Desktop\Итоговый проект\Самоучитель\Самоучитель\obj\Debug\Самоучитель.SlovarForm.resources
+C:\Users\Пользователь\Desktop\Итоговый проект\Самоучитель\Самоучитель\obj\Debug\Самоучитель.TestForm.resources
+C:\Users\Пользователь\Desktop\Итоговый проект\Самоучитель\Самоучитель\obj\Debug\Самоучитель.UchitelForm.resources
+C:\Users\Пользователь\Desktop\Итоговый проект\Самоучитель\Самоучитель\obj\Debug\Самоучитель.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Итоговый проект\Самоучитель\Самоучитель\obj\Debug\Самоучитель.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Итоговый проект\Самоучитель\Самоучитель\obj\Debug\Самоучитель.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Итоговый проект\Самоучитель\Самоучитель\obj\Debug\Самоучитель.exe
+C:\Users\Пользователь\Desktop\Итоговый проект\Самоучитель\Самоучитель\obj\Debug\Самоучитель.pdb
+C:\Users\Пользователь\Desktop\Самоучитель\Самоучитель\obj\Debug\Самоучитель.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Самоучитель\Самоучитель\obj\Debug\Самоучитель.MenuSamouchitel.resources
+C:\Users\Пользователь\Desktop\Самоучитель\Самоучитель\obj\Debug\Самоучитель.SlovarForm.resources
+C:\Users\Пользователь\Desktop\Самоучитель\Самоучитель\obj\Debug\Самоучитель.TestForm.resources
+C:\Users\Пользователь\Desktop\Самоучитель\Самоучитель\obj\Debug\Самоучитель.UchitelForm.resources
+C:\Users\Пользователь\Desktop\Самоучитель\Самоучитель\obj\Debug\Самоучитель.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Самоучитель\Самоучитель\obj\Debug\Самоучитель.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Самоучитель\Самоучитель\obj\Debug\Самоучитель.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Самоучитель\Самоучитель\obj\Debug\Самоучитель.exe
+C:\Users\Пользователь\Desktop\Самоучитель\Самоучитель\obj\Debug\Самоучитель.pdb
+C:\Users\Пользователь\Desktop\Самоучитель\Самоучитель\bin\Debug\Самоучитель.exe.config
+C:\Users\Пользователь\Desktop\Самоучитель\Самоучитель\bin\Debug\Самоучитель.exe
+C:\Users\Пользователь\Desktop\Самоучитель\Самоучитель\bin\Debug\Самоучитель.pdb
+C:\Users\WRLDSKLZ\Documents\ИСиП-20-201\PresentFinalWork-main\Самоучитель\Самоучитель\bin\Debug\Самоучитель.exe.config
+C:\Users\WRLDSKLZ\Documents\ИСиП-20-201\PresentFinalWork-main\Самоучитель\Самоучитель\bin\Debug\Самоучитель.exe
+C:\Users\WRLDSKLZ\Documents\ИСиП-20-201\PresentFinalWork-main\Самоучитель\Самоучитель\bin\Debug\Самоучитель.pdb
+C:\Users\WRLDSKLZ\Documents\ИСиП-20-201\PresentFinalWork-main\Самоучитель\Самоучитель\obj\Debug\Самоучитель.csprojAssemblyReference.cache
+C:\Users\WRLDSKLZ\Documents\ИСиП-20-201\PresentFinalWork-main\Самоучитель\Самоучитель\obj\Debug\Самоучитель.MenuSamouchitel.resources
+C:\Users\WRLDSKLZ\Documents\ИСиП-20-201\PresentFinalWork-main\Самоучитель\Самоучитель\obj\Debug\Самоучитель.SlovarForm.resources
+C:\Users\WRLDSKLZ\Documents\ИСиП-20-201\PresentFinalWork-main\Самоучитель\Самоучитель\obj\Debug\Самоучитель.TestForm.resources
+C:\Users\WRLDSKLZ\Documents\ИСиП-20-201\PresentFinalWork-main\Самоучитель\Самоучитель\obj\Debug\Самоучитель.UchitelForm.resources
+C:\Users\WRLDSKLZ\Documents\ИСиП-20-201\PresentFinalWork-main\Самоучитель\Самоучитель\obj\Debug\Самоучитель.Properties.Resources.resources
+C:\Users\WRLDSKLZ\Documents\ИСиП-20-201\PresentFinalWork-main\Самоучитель\Самоучитель\obj\Debug\Самоучитель.csproj.GenerateResource.cache
+C:\Users\WRLDSKLZ\Documents\ИСиП-20-201\PresentFinalWork-main\Самоучитель\Самоучитель\obj\Debug\Самоучитель.csproj.CoreCompileInputs.cache
+C:\Users\WRLDSKLZ\Documents\ИСиП-20-201\PresentFinalWork-main\Самоучитель\Самоучитель\obj\Debug\Самоучитель.exe
+C:\Users\WRLDSKLZ\Documents\ИСиП-20-201\PresentFinalWork-main\Самоучитель\Самоучитель\obj\Debug\Самоучитель.pdb
